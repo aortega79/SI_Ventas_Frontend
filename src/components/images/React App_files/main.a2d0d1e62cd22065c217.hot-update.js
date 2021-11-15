@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/components/pages/Header.js":
+/*!****************************************!*\
+  !*** ./src/components/pages/Header.js ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/react-scripts/node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/alex/Desktop/SI_Ventas/frontend/src/components/pages/Header.js: Expected corresponding JSX closing tag for <input> (66:8)\n\n\u001b[0m \u001b[90m 64 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33minput\u001b[39m \u001b[36mclass\u001b[39m\u001b[33m=\u001b[39m\u001b[32m\"form-control mr-sm-2\"\u001b[39m type\u001b[33m=\u001b[39m\u001b[32m\"text\"\u001b[39m placeholder\u001b[33m=\u001b[39m\u001b[32m\"Search\"\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 65 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mbutton\u001b[39m \u001b[36mclass\u001b[39m\u001b[33m=\u001b[39m\u001b[32m\"btn btn-outline-success my-2 my-sm-0\"\u001b[39m type\u001b[33m=\u001b[39m\u001b[32m\"submit\"\u001b[39m\u001b[33m>\u001b[39m\u001b[33mSearch\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mbutton\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 66 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mform\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 67 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 68 |\u001b[39m \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mnav\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 69 |\u001b[39m\u001b[0m\n    at _temp._raise (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:776:17)\n    at _temp.raiseWithData (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:769:17)\n    at _temp.raise (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:737:17)\n    at _temp.jsxParseElementAt (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4958:16)\n    at _temp.jsxParseElementAt (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4926:32)\n    at _temp.jsxParseElementAt (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4926:32)\n    at _temp.jsxParseElementAt (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4926:32)\n    at _temp.jsxParseElement (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4984:17)\n    at _temp.parseExprAtom (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:4991:19)\n    at _temp.parseExprSubscripts (/Users/alex/Desktop/SI_Ventas/frontend/node_modules/@babel/parser/lib/index.js:10329:23)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.a2d0d1e62cd22065c217.hot-update.js.map
